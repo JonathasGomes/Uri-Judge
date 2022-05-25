@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonat\\Documents\\GitHub\\Exercicios\\Exercicio01\\Exercicio01.csproj": {}
+    "C:\\Users\\jonat\\Documents\\GitHub\\Exercicios\\bee1001\\bee1001.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonat\\Documents\\GitHub\\Exercicios\\Exercicio01\\Exercicio01.csproj": {
+    "C:\\Users\\jonat\\Documents\\GitHub\\Exercicios\\bee1001\\bee1001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonat\\Documents\\GitHub\\Exercicios\\Exercicio01\\Exercicio01.csproj",
-        "projectName": "Exercicio01",
-        "projectPath": "C:\\Users\\jonat\\Documents\\GitHub\\Exercicios\\Exercicio01\\Exercicio01.csproj",
+        "projectUniqueName": "C:\\Users\\jonat\\Documents\\GitHub\\Exercicios\\bee1001\\bee1001.csproj",
+        "projectName": "bee1001",
+        "projectPath": "C:\\Users\\jonat\\Documents\\GitHub\\Exercicios\\bee1001\\bee1001.csproj",
         "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonat\\Documents\\GitHub\\Exercicios\\Exercicio01\\obj\\",
+        "outputPath": "C:\\Users\\jonat\\Documents\\GitHub\\Exercicios\\bee1001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
