@@ -7,13 +7,12 @@ namespace bee1002
     {
         static void Main(string[] args)
         {
-            double area, n;
-            float raio;
+            double area, n, raio;
             n = 3.14159;
 
-            raio = float.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            area = n * Math.Pow(raio, 2.0);
+            area = n * (raio * raio);
             
             Console.WriteLine("A=" + area.ToString("F4"), CultureInfo.InvariantCulture);
         }
