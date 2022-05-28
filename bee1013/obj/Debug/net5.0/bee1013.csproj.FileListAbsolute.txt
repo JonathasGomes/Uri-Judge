@@ -1,0 +1,16 @@
+C:\Users\jonat\Documents\GitHub\Exercicios\bee1013\bin\Debug\net5.0\bee1013.exe
+C:\Users\jonat\Documents\GitHub\Exercicios\bee1013\bin\Debug\net5.0\bee1013.deps.json
+C:\Users\jonat\Documents\GitHub\Exercicios\bee1013\bin\Debug\net5.0\bee1013.runtimeconfig.json
+C:\Users\jonat\Documents\GitHub\Exercicios\bee1013\bin\Debug\net5.0\bee1013.runtimeconfig.dev.json
+C:\Users\jonat\Documents\GitHub\Exercicios\bee1013\bin\Debug\net5.0\bee1013.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\bee1013\bin\Debug\net5.0\bee1013.pdb
+C:\Users\jonat\Documents\GitHub\Exercicios\bee1013\obj\Debug\net5.0\bee1013.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\bee1013\obj\Debug\net5.0\bee1013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\GitHub\Exercicios\bee1013\obj\Debug\net5.0\bee1013.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\bee1013\obj\Debug\net5.0\bee1013.AssemblyInfo.cs
+C:\Users\jonat\Documents\GitHub\Exercicios\bee1013\obj\Debug\net5.0\bee1013.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\bee1013\obj\Debug\net5.0\bee1013.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\bee1013\obj\Debug\net5.0\refint\bee1013.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\bee1013\obj\Debug\net5.0\bee1013.pdb
+C:\Users\jonat\Documents\GitHub\Exercicios\bee1013\obj\Debug\net5.0\bee1013.genruntimeconfig.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\bee1013\obj\Debug\net5.0\ref\bee1013.dll
