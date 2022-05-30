@@ -14,14 +14,14 @@ namespace Exercicio06
 
             notafinal = nota1 + nota2;
 
-            if(notafinal < 60.00)
+            Console.WriteLine("NOTA FINAL = " + notafinal.ToString("F1", CultureInfo.InvariantCulture));
+
+            if (notafinal < 60.00)
             {
-                Console.WriteLine("NOTA FINAL = " + notafinal.ToString("F1", CultureInfo.InvariantCulture));
                 Console.WriteLine("Reprovado");
             }
             else
             {
-                Console.WriteLine("NOTA FINAL = " + notafinal.ToString("F1", CultureInfo.InvariantCulture));
                 Console.WriteLine("Aprovado");
             }
         }

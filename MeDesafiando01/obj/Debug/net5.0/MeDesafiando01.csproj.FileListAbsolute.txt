@@ -1,0 +1,16 @@
+C:\Users\jonat\Documents\GitHub\Exercicios\MeDesafiando01\bin\Debug\net5.0\MeDesafiando01.exe
+C:\Users\jonat\Documents\GitHub\Exercicios\MeDesafiando01\bin\Debug\net5.0\MeDesafiando01.deps.json
+C:\Users\jonat\Documents\GitHub\Exercicios\MeDesafiando01\bin\Debug\net5.0\MeDesafiando01.runtimeconfig.json
+C:\Users\jonat\Documents\GitHub\Exercicios\MeDesafiando01\bin\Debug\net5.0\MeDesafiando01.runtimeconfig.dev.json
+C:\Users\jonat\Documents\GitHub\Exercicios\MeDesafiando01\bin\Debug\net5.0\MeDesafiando01.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\MeDesafiando01\bin\Debug\net5.0\MeDesafiando01.pdb
+C:\Users\jonat\Documents\GitHub\Exercicios\MeDesafiando01\obj\Debug\net5.0\MeDesafiando01.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\MeDesafiando01\obj\Debug\net5.0\MeDesafiando01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\GitHub\Exercicios\MeDesafiando01\obj\Debug\net5.0\MeDesafiando01.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\MeDesafiando01\obj\Debug\net5.0\MeDesafiando01.AssemblyInfo.cs
+C:\Users\jonat\Documents\GitHub\Exercicios\MeDesafiando01\obj\Debug\net5.0\MeDesafiando01.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\MeDesafiando01\obj\Debug\net5.0\MeDesafiando01.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\MeDesafiando01\obj\Debug\net5.0\refint\MeDesafiando01.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\MeDesafiando01\obj\Debug\net5.0\MeDesafiando01.pdb
+C:\Users\jonat\Documents\GitHub\Exercicios\MeDesafiando01\obj\Debug\net5.0\MeDesafiando01.genruntimeconfig.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\MeDesafiando01\obj\Debug\net5.0\ref\MeDesafiando01.dll
