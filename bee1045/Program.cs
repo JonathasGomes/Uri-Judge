@@ -15,6 +15,7 @@ namespace bee1045
             B = double.Parse(vet[1]);
             C = double.Parse(vet[2]);
 
+
             if(A >= B + C)
             {
                 Console.WriteLine("Não forma triangulo");
@@ -27,14 +28,20 @@ namespace bee1045
             {
                 Console.WriteLine("Triangulo obtusangulo");
             }
-            else if (Math.Pow(A, 2.0) < Math.Pow(B, 2.0) + Math.Pow(C, 2.0))
+            else 
             {
-                Console.WriteLine("Triangulo acutanlugo");
+                Console.WriteLine("Triangulo acutangulo");
             }
-            else if (A == B && B == C)
+
+            if(A == B && B == C)
             {
                 Console.WriteLine("Triangulo equilatero");
             }
+            else if (A == B || B == C || A == C)
+            {
+                Console.WriteLine("Triangulo retangulo");
+            }
+
         }
     }
 }

@@ -1,0 +1,16 @@
+C:\Users\jonat\Documents\GitHub\Exercicios\Medesafiando02\bin\Debug\net5.0\Medesafiando02.exe
+C:\Users\jonat\Documents\GitHub\Exercicios\Medesafiando02\bin\Debug\net5.0\Medesafiando02.deps.json
+C:\Users\jonat\Documents\GitHub\Exercicios\Medesafiando02\bin\Debug\net5.0\Medesafiando02.runtimeconfig.json
+C:\Users\jonat\Documents\GitHub\Exercicios\Medesafiando02\bin\Debug\net5.0\Medesafiando02.runtimeconfig.dev.json
+C:\Users\jonat\Documents\GitHub\Exercicios\Medesafiando02\bin\Debug\net5.0\Medesafiando02.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\Medesafiando02\bin\Debug\net5.0\Medesafiando02.pdb
+C:\Users\jonat\Documents\GitHub\Exercicios\Medesafiando02\obj\Debug\net5.0\Medesafiando02.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\Medesafiando02\obj\Debug\net5.0\Medesafiando02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\GitHub\Exercicios\Medesafiando02\obj\Debug\net5.0\Medesafiando02.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\Medesafiando02\obj\Debug\net5.0\Medesafiando02.AssemblyInfo.cs
+C:\Users\jonat\Documents\GitHub\Exercicios\Medesafiando02\obj\Debug\net5.0\Medesafiando02.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\Medesafiando02\obj\Debug\net5.0\Medesafiando02.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\Medesafiando02\obj\Debug\net5.0\refint\Medesafiando02.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\Medesafiando02\obj\Debug\net5.0\Medesafiando02.pdb
+C:\Users\jonat\Documents\GitHub\Exercicios\Medesafiando02\obj\Debug\net5.0\Medesafiando02.genruntimeconfig.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\Medesafiando02\obj\Debug\net5.0\ref\Medesafiando02.dll
