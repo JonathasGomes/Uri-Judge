@@ -1,0 +1,16 @@
+C:\Users\jonat\Documents\GitHub\Exercicios\While02\bin\Debug\net5.0\While02.exe
+C:\Users\jonat\Documents\GitHub\Exercicios\While02\bin\Debug\net5.0\While02.deps.json
+C:\Users\jonat\Documents\GitHub\Exercicios\While02\bin\Debug\net5.0\While02.runtimeconfig.json
+C:\Users\jonat\Documents\GitHub\Exercicios\While02\bin\Debug\net5.0\While02.runtimeconfig.dev.json
+C:\Users\jonat\Documents\GitHub\Exercicios\While02\bin\Debug\net5.0\While02.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\While02\bin\Debug\net5.0\While02.pdb
+C:\Users\jonat\Documents\GitHub\Exercicios\While02\obj\Debug\net5.0\While02.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\While02\obj\Debug\net5.0\While02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\GitHub\Exercicios\While02\obj\Debug\net5.0\While02.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\While02\obj\Debug\net5.0\While02.AssemblyInfo.cs
+C:\Users\jonat\Documents\GitHub\Exercicios\While02\obj\Debug\net5.0\While02.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\While02\obj\Debug\net5.0\While02.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\While02\obj\Debug\net5.0\refint\While02.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\While02\obj\Debug\net5.0\While02.pdb
+C:\Users\jonat\Documents\GitHub\Exercicios\While02\obj\Debug\net5.0\While02.genruntimeconfig.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\While02\obj\Debug\net5.0\ref\While02.dll
