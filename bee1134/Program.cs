@@ -14,7 +14,7 @@ namespace bee1134
             gasolina = 0;
             diesel = 0;
 
-            while (num > 0 || num < 4)
+            while (num != 4)
             {
 
                 if (num == 1)
@@ -30,18 +30,15 @@ namespace bee1134
                     diesel = diesel + 1;
                 }
 
-
                 num = int.Parse(Console.ReadLine());
+
             }
 
-            if(num == 4)
-            {
-                Console.WriteLine("MUITO OBRIGADO!");
-                Console.WriteLine("Alcool: " + alcool);
-                Console.WriteLine("Alcool: " + gasolina);
-                Console.WriteLine("Alcool: " + diesel);
-            }
-          
+            Console.WriteLine("MUITO OBRIGADO!");
+            Console.WriteLine("Alcool: " + alcool);
+            Console.WriteLine("Gasolina: " + gasolina);
+            Console.WriteLine("Diesel: " + diesel);
+
         }
     }
 }
