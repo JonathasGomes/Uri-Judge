@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ForCaderno03/1.0.0": {
+        "runtime": {
+          "ForCaderno03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ForCaderno03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

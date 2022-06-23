@@ -1,0 +1,16 @@
+C:\Users\jonat\Documents\GitHub\Exercicios\For02\bin\Debug\net5.0\For02.exe
+C:\Users\jonat\Documents\GitHub\Exercicios\For02\bin\Debug\net5.0\For02.deps.json
+C:\Users\jonat\Documents\GitHub\Exercicios\For02\bin\Debug\net5.0\For02.runtimeconfig.json
+C:\Users\jonat\Documents\GitHub\Exercicios\For02\bin\Debug\net5.0\For02.runtimeconfig.dev.json
+C:\Users\jonat\Documents\GitHub\Exercicios\For02\bin\Debug\net5.0\For02.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\For02\bin\Debug\net5.0\For02.pdb
+C:\Users\jonat\Documents\GitHub\Exercicios\For02\obj\Debug\net5.0\For02.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\For02\obj\Debug\net5.0\For02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\GitHub\Exercicios\For02\obj\Debug\net5.0\For02.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\For02\obj\Debug\net5.0\For02.AssemblyInfo.cs
+C:\Users\jonat\Documents\GitHub\Exercicios\For02\obj\Debug\net5.0\For02.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\For02\obj\Debug\net5.0\For02.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\For02\obj\Debug\net5.0\refint\For02.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\For02\obj\Debug\net5.0\For02.pdb
+C:\Users\jonat\Documents\GitHub\Exercicios\For02\obj\Debug\net5.0\For02.genruntimeconfig.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\For02\obj\Debug\net5.0\ref\For02.dll

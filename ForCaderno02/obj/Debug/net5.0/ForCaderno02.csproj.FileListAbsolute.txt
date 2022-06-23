@@ -1,0 +1,16 @@
+C:\Users\jonat\Documents\GitHub\Exercicios\ForCaderno02\bin\Debug\net5.0\ForCaderno02.exe
+C:\Users\jonat\Documents\GitHub\Exercicios\ForCaderno02\bin\Debug\net5.0\ForCaderno02.deps.json
+C:\Users\jonat\Documents\GitHub\Exercicios\ForCaderno02\bin\Debug\net5.0\ForCaderno02.runtimeconfig.json
+C:\Users\jonat\Documents\GitHub\Exercicios\ForCaderno02\bin\Debug\net5.0\ForCaderno02.runtimeconfig.dev.json
+C:\Users\jonat\Documents\GitHub\Exercicios\ForCaderno02\bin\Debug\net5.0\ForCaderno02.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\ForCaderno02\bin\Debug\net5.0\ForCaderno02.pdb
+C:\Users\jonat\Documents\GitHub\Exercicios\ForCaderno02\obj\Debug\net5.0\ForCaderno02.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\ForCaderno02\obj\Debug\net5.0\ForCaderno02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\GitHub\Exercicios\ForCaderno02\obj\Debug\net5.0\ForCaderno02.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\ForCaderno02\obj\Debug\net5.0\ForCaderno02.AssemblyInfo.cs
+C:\Users\jonat\Documents\GitHub\Exercicios\ForCaderno02\obj\Debug\net5.0\ForCaderno02.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\ForCaderno02\obj\Debug\net5.0\ForCaderno02.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\ForCaderno02\obj\Debug\net5.0\refint\ForCaderno02.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\ForCaderno02\obj\Debug\net5.0\ForCaderno02.pdb
+C:\Users\jonat\Documents\GitHub\Exercicios\ForCaderno02\obj\Debug\net5.0\ForCaderno02.genruntimeconfig.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\ForCaderno02\obj\Debug\net5.0\ref\ForCaderno02.dll
