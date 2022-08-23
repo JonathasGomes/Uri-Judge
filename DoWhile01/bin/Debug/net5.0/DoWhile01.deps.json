@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DoWhile01/1.0.0": {
+        "runtime": {
+          "DoWhile01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoWhile01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

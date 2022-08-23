@@ -1,0 +1,16 @@
+C:\Users\jonat\Documents\GitHub\Exercicios\DoWhile01\bin\Debug\net5.0\DoWhile01.exe
+C:\Users\jonat\Documents\GitHub\Exercicios\DoWhile01\bin\Debug\net5.0\DoWhile01.deps.json
+C:\Users\jonat\Documents\GitHub\Exercicios\DoWhile01\bin\Debug\net5.0\DoWhile01.runtimeconfig.json
+C:\Users\jonat\Documents\GitHub\Exercicios\DoWhile01\bin\Debug\net5.0\DoWhile01.runtimeconfig.dev.json
+C:\Users\jonat\Documents\GitHub\Exercicios\DoWhile01\bin\Debug\net5.0\DoWhile01.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\DoWhile01\bin\Debug\net5.0\DoWhile01.pdb
+C:\Users\jonat\Documents\GitHub\Exercicios\DoWhile01\obj\Debug\net5.0\DoWhile01.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\DoWhile01\obj\Debug\net5.0\DoWhile01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\GitHub\Exercicios\DoWhile01\obj\Debug\net5.0\DoWhile01.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\DoWhile01\obj\Debug\net5.0\DoWhile01.AssemblyInfo.cs
+C:\Users\jonat\Documents\GitHub\Exercicios\DoWhile01\obj\Debug\net5.0\DoWhile01.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\DoWhile01\obj\Debug\net5.0\DoWhile01.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\DoWhile01\obj\Debug\net5.0\refint\DoWhile01.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\DoWhile01\obj\Debug\net5.0\DoWhile01.pdb
+C:\Users\jonat\Documents\GitHub\Exercicios\DoWhile01\obj\Debug\net5.0\DoWhile01.genruntimeconfig.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\DoWhile01\obj\Debug\net5.0\ref\DoWhile01.dll
