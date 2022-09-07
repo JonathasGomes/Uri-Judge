@@ -149,7 +149,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bee1116", "bee1116\bee1116.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bee1132", "bee1132\bee1132.csproj", "{BA558623-9E77-4B37-839A-17F6BB8EA24B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWhile01", "DoWhile01\DoWhile01.csproj", "{A630A1D4-1188-45CD-AF9B-2960D021D443}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoWhile01", "DoWhile01\DoWhile01.csproj", "{A630A1D4-1188-45CD-AF9B-2960D021D443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetores", "Vetores\Vetores.csproj", "{246ED8B3-224A-4244-B536-26ED9B1AD76C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -453,6 +455,10 @@ Global
 		{A630A1D4-1188-45CD-AF9B-2960D021D443}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A630A1D4-1188-45CD-AF9B-2960D021D443}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A630A1D4-1188-45CD-AF9B-2960D021D443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{246ED8B3-224A-4244-B536-26ED9B1AD76C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246ED8B3-224A-4244-B536-26ED9B1AD76C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246ED8B3-224A-4244-B536-26ED9B1AD76C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246ED8B3-224A-4244-B536-26ED9B1AD76C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
