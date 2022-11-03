@@ -157,7 +157,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vetores01", "Vetores01\Veto
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vetores02", "Vetores03\Vetores02.csproj", "{7C0A591F-7220-409F-A49E-775E2C765F80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEach01", "ForEach01\ForEach01.csproj", "{7149E844-4C92-46A6-BE1B-58ACD0A7AFDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForEach01", "ForEach01\ForEach01.csproj", "{7149E844-4C92-46A6-BE1B-58ACD0A7AFDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetores04", "Vetores04\Vetores04.csproj", "{5EEDF496-DBFC-4735-9E6C-3E069706196D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -477,6 +479,10 @@ Global
 		{7149E844-4C92-46A6-BE1B-58ACD0A7AFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7149E844-4C92-46A6-BE1B-58ACD0A7AFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7149E844-4C92-46A6-BE1B-58ACD0A7AFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EEDF496-DBFC-4735-9E6C-3E069706196D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEDF496-DBFC-4735-9E6C-3E069706196D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEDF496-DBFC-4735-9E6C-3E069706196D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEDF496-DBFC-4735-9E6C-3E069706196D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
