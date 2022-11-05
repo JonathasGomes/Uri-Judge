@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Exe_vetores07
 {
@@ -23,19 +24,20 @@ namespace Exe_vetores07
                 s = Console.ReadLine().Split(' ');
 
                 nomes[i] = s[0];
-                nota1[i] = double.Parse(s[1]);
-                nota2[i] = double.Parse(s[2]);
+                nota1[i] = double.Parse(s[1], CultureInfo.InvariantCulture);
+                nota2[i] = double.Parse(s[2], CultureInfo.InvariantCulture);
 
-                soma[i] = nota1[i] + nota2[i];
+                soma[i] = (double) nota1[i] + nota2[i];
 
-                media[i] = soma[i] / 2;
+                media[i] = soma[i] / 2.0;
             }
+
+            Console.WriteLine("Alunos aprovados:");
 
             for (int i = 0; i < N; i++)
             {
-                if (media[i] > 6.0)
+                if (media[i] >= 6.0)
                 {
-                    Console.WriteLine("Alunos aprovados:");
                     Console.WriteLine(nomes[i]);
                 }
             }
