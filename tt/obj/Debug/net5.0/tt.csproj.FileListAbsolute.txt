@@ -1,0 +1,16 @@
+C:\Users\jonat\Documents\GitHub\Exercicios\tt\bin\Debug\net5.0\tt.exe
+C:\Users\jonat\Documents\GitHub\Exercicios\tt\bin\Debug\net5.0\tt.deps.json
+C:\Users\jonat\Documents\GitHub\Exercicios\tt\bin\Debug\net5.0\tt.runtimeconfig.json
+C:\Users\jonat\Documents\GitHub\Exercicios\tt\bin\Debug\net5.0\tt.runtimeconfig.dev.json
+C:\Users\jonat\Documents\GitHub\Exercicios\tt\bin\Debug\net5.0\tt.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\tt\bin\Debug\net5.0\tt.pdb
+C:\Users\jonat\Documents\GitHub\Exercicios\tt\obj\Debug\net5.0\tt.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\tt\obj\Debug\net5.0\tt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\GitHub\Exercicios\tt\obj\Debug\net5.0\tt.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\tt\obj\Debug\net5.0\tt.AssemblyInfo.cs
+C:\Users\jonat\Documents\GitHub\Exercicios\tt\obj\Debug\net5.0\tt.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\tt\obj\Debug\net5.0\tt.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\tt\obj\Debug\net5.0\refint\tt.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\tt\obj\Debug\net5.0\tt.pdb
+C:\Users\jonat\Documents\GitHub\Exercicios\tt\obj\Debug\net5.0\tt.genruntimeconfig.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\tt\obj\Debug\net5.0\ref\tt.dll

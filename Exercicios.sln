@@ -161,15 +161,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForEach01", "ForEach01\ForE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vetores04", "Vetores04\Vetores04.csproj", "{5EEDF496-DBFC-4735-9E6C-3E069706196D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exe_vetores01", "Exe_vetores01\Exe_vetores01.csproj", "{3F2D8870-D13B-4B93-BEAF-AAEAD6D0584D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exe_vetores01", "Exe_vetores01\Exe_vetores01.csproj", "{3F2D8870-D13B-4B93-BEAF-AAEAD6D0584D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exe_vetores02", "Exe_vetores02\Exe_vetores02.csproj", "{E9C9B279-B3BB-4987-92DC-53E5E28D9942}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exe_vetores02", "Exe_vetores02\Exe_vetores02.csproj", "{E9C9B279-B3BB-4987-92DC-53E5E28D9942}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exe_vetores03", "Exe_vetores03\Exe_vetores03.csproj", "{2CAF03C2-0E9D-45F5-B850-2D73BF96958B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exe_vetores03", "Exe_vetores03\Exe_vetores03.csproj", "{2CAF03C2-0E9D-45F5-B850-2D73BF96958B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exe_vetores04", "Exe_vetores04\Exe_vetores04.csproj", "{417534D2-7C66-4B0C-A367-1B66C46EFF65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exe_vetores04", "Exe_vetores04\Exe_vetores04.csproj", "{417534D2-7C66-4B0C-A367-1B66C46EFF65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exe_vetores05", "Exe_vetores05\Exe_vetores05.csproj", "{3121A942-9C1F-48D7-AD5D-8E9FD6E3B17F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exe_vetores05", "Exe_vetores05\Exe_vetores05.csproj", "{3121A942-9C1F-48D7-AD5D-8E9FD6E3B17F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tt", "tt\tt.csproj", "{1DFEA261-2914-482F-A189-CD66DCB00CA6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tt2", "tt2\tt2.csproj", "{3CE0BA2B-0883-4B2E-B2EA-3F0B1094A43B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tt3", "tt3\tt3.csproj", "{DF4EB5F6-1202-4BAB-917A-0CB5E8B7E171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exe_vetores06", "Exe_vetores06\Exe_vetores06.csproj", "{BFB255B2-527E-4DD5-90D3-9B32CA66F637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exe_vetores07", "Exe_vetores07\Exe_vetores07.csproj", "{2616C4DE-E0B7-4D47-9D70-02D9EDAFCB21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -513,6 +523,26 @@ Global
 		{3121A942-9C1F-48D7-AD5D-8E9FD6E3B17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3121A942-9C1F-48D7-AD5D-8E9FD6E3B17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3121A942-9C1F-48D7-AD5D-8E9FD6E3B17F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DFEA261-2914-482F-A189-CD66DCB00CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFEA261-2914-482F-A189-CD66DCB00CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFEA261-2914-482F-A189-CD66DCB00CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFEA261-2914-482F-A189-CD66DCB00CA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CE0BA2B-0883-4B2E-B2EA-3F0B1094A43B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE0BA2B-0883-4B2E-B2EA-3F0B1094A43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE0BA2B-0883-4B2E-B2EA-3F0B1094A43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE0BA2B-0883-4B2E-B2EA-3F0B1094A43B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF4EB5F6-1202-4BAB-917A-0CB5E8B7E171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF4EB5F6-1202-4BAB-917A-0CB5E8B7E171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF4EB5F6-1202-4BAB-917A-0CB5E8B7E171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF4EB5F6-1202-4BAB-917A-0CB5E8B7E171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB255B2-527E-4DD5-90D3-9B32CA66F637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB255B2-527E-4DD5-90D3-9B32CA66F637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB255B2-527E-4DD5-90D3-9B32CA66F637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB255B2-527E-4DD5-90D3-9B32CA66F637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2616C4DE-E0B7-4D47-9D70-02D9EDAFCB21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2616C4DE-E0B7-4D47-9D70-02D9EDAFCB21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2616C4DE-E0B7-4D47-9D70-02D9EDAFCB21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2616C4DE-E0B7-4D47-9D70-02D9EDAFCB21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

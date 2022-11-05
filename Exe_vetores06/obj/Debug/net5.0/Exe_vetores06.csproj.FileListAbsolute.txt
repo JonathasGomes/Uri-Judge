@@ -1,0 +1,16 @@
+C:\Users\jonat\Documents\GitHub\Exercicios\Exe_vetores06\bin\Debug\net5.0\Exe_vetores06.exe
+C:\Users\jonat\Documents\GitHub\Exercicios\Exe_vetores06\bin\Debug\net5.0\Exe_vetores06.deps.json
+C:\Users\jonat\Documents\GitHub\Exercicios\Exe_vetores06\bin\Debug\net5.0\Exe_vetores06.runtimeconfig.json
+C:\Users\jonat\Documents\GitHub\Exercicios\Exe_vetores06\bin\Debug\net5.0\Exe_vetores06.runtimeconfig.dev.json
+C:\Users\jonat\Documents\GitHub\Exercicios\Exe_vetores06\bin\Debug\net5.0\Exe_vetores06.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\Exe_vetores06\bin\Debug\net5.0\Exe_vetores06.pdb
+C:\Users\jonat\Documents\GitHub\Exercicios\Exe_vetores06\obj\Debug\net5.0\Exe_vetores06.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\Exe_vetores06\obj\Debug\net5.0\Exe_vetores06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\GitHub\Exercicios\Exe_vetores06\obj\Debug\net5.0\Exe_vetores06.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\Exe_vetores06\obj\Debug\net5.0\Exe_vetores06.AssemblyInfo.cs
+C:\Users\jonat\Documents\GitHub\Exercicios\Exe_vetores06\obj\Debug\net5.0\Exe_vetores06.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\Exe_vetores06\obj\Debug\net5.0\Exe_vetores06.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\Exe_vetores06\obj\Debug\net5.0\refint\Exe_vetores06.dll
+C:\Users\jonat\Documents\GitHub\Exercicios\Exe_vetores06\obj\Debug\net5.0\Exe_vetores06.pdb
+C:\Users\jonat\Documents\GitHub\Exercicios\Exe_vetores06\obj\Debug\net5.0\Exe_vetores06.genruntimeconfig.cache
+C:\Users\jonat\Documents\GitHub\Exercicios\Exe_vetores06\obj\Debug\net5.0\ref\Exe_vetores06.dll
