@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonat\\Documents\\GitHub\\Exercicios\\bee1080\\bee1080.csproj": {}
+    "C:\\Users\\jonat\\Documents\\GitHub\\Uri-Judge\\bee1080\\bee1080.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonat\\Documents\\GitHub\\Exercicios\\bee1080\\bee1080.csproj": {
+    "C:\\Users\\jonat\\Documents\\GitHub\\Uri-Judge\\bee1080\\bee1080.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonat\\Documents\\GitHub\\Exercicios\\bee1080\\bee1080.csproj",
+        "projectUniqueName": "C:\\Users\\jonat\\Documents\\GitHub\\Uri-Judge\\bee1080\\bee1080.csproj",
         "projectName": "bee1080",
-        "projectPath": "C:\\Users\\jonat\\Documents\\GitHub\\Exercicios\\bee1080\\bee1080.csproj",
+        "projectPath": "C:\\Users\\jonat\\Documents\\GitHub\\Uri-Judge\\bee1080\\bee1080.csproj",
         "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonat\\Documents\\GitHub\\Exercicios\\bee1080\\obj\\",
+        "outputPath": "C:\\Users\\jonat\\Documents\\GitHub\\Uri-Judge\\bee1080\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
