@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonat\\Documents\\GitHub\\Exercicios\\Exercicio11\\Exercicio11.csproj",
+      "projectUniqueName": "C:\\Users\\jonat\\Documents\\GitHub\\Uri-Judge\\Exercicio11\\Exercicio11.csproj",
       "projectName": "Exercicio11",
-      "projectPath": "C:\\Users\\jonat\\Documents\\GitHub\\Exercicios\\Exercicio11\\Exercicio11.csproj",
+      "projectPath": "C:\\Users\\jonat\\Documents\\GitHub\\Uri-Judge\\Exercicio11\\Exercicio11.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonat\\Documents\\GitHub\\Exercicios\\Exercicio11\\obj\\",
+      "outputPath": "C:\\Users\\jonat\\Documents\\GitHub\\Uri-Judge\\Exercicio11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
